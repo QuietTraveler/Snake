@@ -1,0 +1,2 @@
+C:\Users\86159\Desktop\git_训练\Gluttonous_Snake_c\x64\Debug\Gluttonous_Snake_c.exe
+D:\Gitee_bank\Game\gluttonous_snake\x64\Debug\Gluttonous_Snake_c.exe
